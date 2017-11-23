@@ -1,0 +1,54 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="C:\Users\katia.goncalves\Documents\TestePrincipal" />
+        <option value="C:\Users\katia.goncalves\Documents\MyApplication\app" />
+        <option value="C:\Users\katia.goncalves\Documents\myapp" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="C:\Users\katia.goncalves\Documents\TestePrincipal" />
+      </list>
+    </option>
+    <option name="lastPath" value="C:\Users\katia.goncalves\Documents\TestePrincipal" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:\Users\katia.goncalves\Documents\MyApplication\app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1511465676182" />
+              <option name="buildTimestamp" value="1510251718825" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\katia.goncalves\Documents\TestePrincipal">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1511465720398" />
+              <option name="buildTimestamp" value="1510251718825" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\katia.goncalves\Documents\myapp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1511465641523" />
+              <option name="buildTimestamp" value="1510251718825" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

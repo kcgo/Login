@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MeuApp</string>
+
+
+    <string name="my_description">" Sou aluna do curso de SI na Faculdade Pitagoras. Pretendo aprender maximo" +
+                "possivel na programação Android "</string>
+    <string name="my_name">Katia Cristina da Costa Goncalves</string>
+    <string name="objetivo1">Apreender melhor Android</string>
+    <string name="objetivos2">"Apreender melhor Java</string>
+    <string name="objetivos3">Apreender melhor Logica De Programação</string>
+    <string name="objetivos4">Aprender melhor Logica android</string>
+    <string name="objetivos5">Apreender melhor Recursos Android</string>
+    <string name="objetivos6">Apreender melhor Controle de Versionamento</string>
+    <string name="objetivos7">Melhorar conhecimentos gerais</string>
+    <string name="objetivos8">Crescer na Programação</string>
+    <string name="objetivo9">Quebrar paradigmas</string>
+    <string name="objetivos10">Aprender a aprender</string>
+    <string name="about"><about></about>r</string>
+
+
+
+</resources>
